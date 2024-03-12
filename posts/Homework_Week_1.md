@@ -15,3 +15,11 @@ In hopes of adjusting the height and width of the squares, I thought that by cha
 ![Alt text](<../static/HW1/GRIDiteration3.png>)
 
 I started again by creating a canvas using the setup function, and I was able to set a canvas for 400x400 to create a well-sized square. From this point, I will try create a coloured square like I had done in last classes tutorial.
+
+
+### Choosing a work by Rafaël Rozendaal
+The next part of this homework task requires us to pick a work from the creative coding artist, Rafaël Rozendaal. He makes gorgeous abstract pieces that resonate to feelings, colour, and movement. Hence, when looking through his pieces, I resonated most with this particular work titled "*'good bye farewell.com'*" (2011).
+
+![Alt text](<../static/HW1/RAFpic1.png>)
+
+To replicate this, I may have to do my own research as I had only worked with four dimensional shapes like squares, whilst Rozendaal has utilised circular and organic forms of line and shape to create this piece.
